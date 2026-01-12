@@ -13,6 +13,3 @@ I am a second-year master's student in Medical Technology at the Institute of Me
 e.pdf).
 [Email](mailto:xxx@stu.pku.edu.cn) / [Github](https://github.com/xxx) / [We
 chat](../images/wechat.jpg)
-
-A data-driven personal website
-======
